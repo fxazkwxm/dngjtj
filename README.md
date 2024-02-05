@@ -5,8 +5,20 @@
 ### 代理工具
 1.NekoBox for Android 目前处于稳定期
 连接测试网址请参考:  https://github.com/XIU2/CloudflareSpeedTest/discussions/62#discussion-2915369 无敌好吧这个软件真的好用。
-
 :https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+
+1.1 sing-box 官方仓库无中文
+
+https://github.com/SagerNet/sing-box
+
+ 1.2 sing-box 中文仓库/中文汉化
+ 
+ https://github.com/wzyazkwxm/sing-box
+
+新出的代理工具，
+https://github.com/KaringX/karing
+
+
 
  2.冲浪板，更新挺频繁，就是不支持新协议。
 :https://github.com/getsurfboard/surfboard/releases 你更新有什么用，不支持新协议。浪费大家的心情。迟迟不更新。虽然你是基本Surge 也不至于拖这么久，还不更新新协议？
