@@ -30,7 +30,7 @@ https://github.com/KaringX/karing
  2.冲浪板，更新挺频繁，就是不支持新协议。
 :https://github.com/getsurfboard/surfboard/releases 你更新有什么用，不支持新协议。浪费大家的心情。迟迟不更新。虽然你是基本Surge 也不至于拖这么久，还不更新新协议？
 
-3.clash meta  处于存档状态。
+3.clash meta  处于正常更新状态。
 https://github.com/MetaCubeX/ClashMetaForAndroid/releases
 某个人，他直接把这件事情闹大clash全系列的。工具都不更新。结果才得到惩罚了，被开盒 何必呢，没事做嘛，我都觉得那个人很惨嘞。真是赔了夫人又折兵
 
