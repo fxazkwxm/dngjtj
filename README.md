@@ -4,8 +4,15 @@
 代理工具推荐   只推荐安卓的代理工具，因为你没有使用苹果设备？
 ### 代理工具
 1.NekoBox for Android 目前处于稳定期
-连接测试网址请参考:  https://github.com/XIU2/CloudflareSpeedTest/discussions/62#discussion-2915369 无敌好吧这个软件真的好用。
+连接测试网址请参考:  https://github.com/XIU2/CloudflareSpeedTest/discussions/62#discussion-2915369 
+
+无敌好吧这个软件真的好用。
+
+下载
 :https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+
+内测版下载
+https://github.com/MatsuriDayo/NekoBoxForAndroid/actions
 
 1.1 sing-box 官方仓库无中文
 
