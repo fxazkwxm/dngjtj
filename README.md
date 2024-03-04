@@ -13,7 +13,7 @@ https://github.com/SagerNet/sing-box
 
  1.2 sing-box 中文仓库/中文汉化
  
- https://github.com/wzyazkwxm/sing-box
+ https://github.com/fxazkwxm/sing-box
 
 新出的代理工具，
 https://github.com/KaringX/karing
