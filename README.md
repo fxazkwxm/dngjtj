@@ -5,6 +5,10 @@
 ### 代理工具
 1.NekoBox for Android 目前处于稳定期
 连接测试网址请参考:  https://github.com/XIU2/CloudflareSpeedTest/discussions/62#discussion-2915369 
+这里我自己推荐一个：
+http://images-na.ssl-images-amazon.com
+
+如果被劫持了了用https协议，知道是都超时了，多连接测试还是无法使用，就用换那个https 正常使用代表就行了，还有一种可能呢，要么就是节点挂了，就类似于相当于网站被墙了
 
 无敌好吧这个软件真的好用。
 
