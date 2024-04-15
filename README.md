@@ -1,5 +1,9 @@
 # 优先推荐使用第一个工具方便的一批。
+现在我改变意见选择用hiddify-next ，主要是你用直连机场换IP很方便
 
+NekoBoxForAndroid
+小问题解决文档:
+https://github.com/fxazkwxm/dngjtj/wiki/代理工具常见疑惑解答
 ## dngjtj
 代理工具推荐   只推荐安卓的代理工具，因为你没有使用苹果设备？
 ### 代理工具
