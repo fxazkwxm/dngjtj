@@ -22,6 +22,17 @@ http://images-na.ssl-images-amazon.com
 内测版下载
 https://github.com/MatsuriDayo/NekoBoxForAndroid/actions
 
+1.0  FlClash 
+
+基于ClashMeta的多平台代理客户端，简单易用，开源无广告。
+
+
+https://github.com/chen08209/FlClash
+
+内测版下载:
+
+https://github.com/chen08209/FlClash/actions
+
 1.1 sing-box 官方仓库无中文
 
 https://github.com/SagerNet/sing-box
