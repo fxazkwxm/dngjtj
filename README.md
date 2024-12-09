@@ -69,3 +69,73 @@ https://matsuridayo.github.io/n-configuration/
 如果找不到教程，去YouTube搜 又不是没办法，也可以使用谷歌搜索。
 
 
+
+English
+
+
+# I recommend using the first batch of convenient tools first.
+Now I have changed my opinion and choose to use hiddify-next, mainly because it is very convenient for you to change IP with direct airport connection
+
+NekoBoxForAndroid
+Small problem solving document:
+https://github.com/fxazkwxm/dngjtj/wiki/Proxy tool FAQ
+## dngjtj
+Proxy tool recommendation Only recommend Android proxy tools, because you don’t use Apple devices?
+ ### Proxy tools
+1. NekoBox for Android is currently in a stable stage
+Please refer to the connection test URL: https://github.com/XIU2/CloudflareSpeedTest/discussions/62#discussion-2915369
+Here I recommend one:
+http://images-na.ssl-images-amazon.com
+
+If it is hijacked and uses the https protocol, it knows that it has timed out, and the multi-connection test still cannot be used, just use the https to use the normal representative. There is another possibility, either the node is down, which is similar to the equivalent of the website being blocked
+
+This software is really easy to use.
+
+Download
+:https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+
+Download the internal beta version
+https://github.com/MatsuriDayo/NekoBoxForAndroid/actions
+
+1.0 FlClash
+
+Multi-platform proxy client based on ClashMeta, simple and easy to use, open source and no ads.
+
+ https://github.com/chen08209/FlClash
+
+Download the beta version:
+
+https://github.com/chen08209/FlClash/actions
+
+1.1 sing-box official warehouse has no Chinese
+
+https://github.com/SagerNet/sing-box
+
+1.2 sing-box Chinese warehouse/Chinese translation
+
+https://github.com/fxazkwxm/sing-box
+
+New proxy tool,
+
+https://github.com/KaringX/karing
+
+2. Surfboard, updates frequently, but does not support the new protocol.
+
+:https://github.com/getsurfboard/surfboard/releases What's the point of updating, it does not support the new protocol. It wastes everyone's mood. It has not been updated for a long time. Although you are a basic Surge, you will not delay it for so long, and you still don't update the new protocol?
+
+3. clash meta is in a normal update state.
+ https://github.com/MetaCubeX/ClashMetaForAndroid/releases
+Someone made a big fuss about this matter and affected the entire Clash series. He didn't update the tools. As a result, he was punished and his box was opened. Why bother? He had nothing to do. I feel sorry for that person. He really lost both the lady and the army.
+
+4.hiddify-next
+:https://github.com/hiddify/hiddify-next/releases
+Developed by overseas users. The functions are simple, but the updates are good. I don't like it very much.
+
+PC proxy tool: After careful study, it should be quite simple and usable. I will help you find the document. It corresponds to the one below, not the one above.
+
+https://github.com/MatsuriDayo/nekoray/releases/tag/3.24
+
+Official introduction and description document:
+https://matsuridayo.github.io/n-configuration/
+
+If you can't find the tutorial, go to YouTube to search. It's not impossible, you can also use Google search.
