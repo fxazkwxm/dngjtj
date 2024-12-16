@@ -14,7 +14,7 @@
 ## 使用范围限制
 我认为用于访问特定的网站也不太认定为违规
 比如YouTube，谷歌,gpt AI 流媒体 比如奈飞 ,
-对于服务端来说不能通过时间进行长期使用
+对于服务端来说不能用cdn试图绕过进行长期使用 不然你可能会受到监管或者监控 用是可以用但是你要把控使用量不能太大 比如流量太大，会被提供商认定为你滥用或者异常行为
 否则会被认定为你进行滥用，因为cdn厂商也能察觉的到的
 比如最近cf cdn这一家已经增加了明显使用限制政策规
 后续肯定进行管控
@@ -34,6 +34,7 @@
 
 
 
+
 # Proxy tool safe use policy
 Proxy tools are similar to VPNs in operation and working principle
 Before using the tool, please check whether the laws of the corresponding country support this behavior
@@ -42,25 +43,22 @@ Because some countries may have strict control over VPNs
 China is definitely ranked first, followed by Russia, which has opened a closed firewall test
 That is, you cannot use foreign websites and encounter blockages
 Other countries may include Iran
-My suggestion is that you should not use it to violate laws and regulations. Violating national laws will have great risks to your own safety
+My suggestion is that you should not use it to violate laws and regulations. Violating the laws at the national level will have a great risk to your own safety
 You may go to jail and step on a sewing machine
 Many countries definitely do not have clear regulations on this level of behavior. They just look at your speech, freedom of speech and other content to collect
 If he determines that you have violated the law, he will definitely arrest you
 ## Scope of use restrictions
 I think it is not considered illegal to use it to access specific websites
 For example, YouTube, Google, gpt AI streaming media, such as Netflix,
-For the server, it cannot be used for a long time over time
-Otherwise, it will be considered as abuse by you, because CDN manufacturers can also detect it
-For example, recently CF CDN has added obvious usage restriction policy regulations
-Subsequent control will definitely be carried out
-###  Security precautions
-Although the tool provides a clear way to hide IP anonymity
-That requires your vps or purchased services to cooperate
-But the registered username and password you use may not be safe. You need to verify the security of the password in other ways. A higher complexity may be better
-Because although you can use the tool, you also have to worry about your privacy protection
-The mailbox must use the service of your local country. This mainly depends on whether your mailbox or the provider of the service you purchased will collect your mailbox data
-Or, when using the tool, it makes an IP connection and may also collect the log from your local IP to the remote IP
-You can either ask the customer service for this? Or you can use a more advanced way to chain the proxy, through transit and other aspects, which roughly means that although you use your server, the IP you access is not the server you built yourself, but the IP of other countries, most of which are computer room IPs
-This kind of stability cannot be sustained forever, after all, there are firewalls and rules restrictions, such as the server's own firewall rules or national levels
-My suggestion is to watch YouTube more. Xiaobai can also learn most of the technical knowledge that can be understood. Although you still don't understand, you can study and understand a little bit
-You can also find tutorials through search engines
+For the server, you cannot use CDN to try to bypass long-term use, otherwise you may be regulated or monitored. You can use it, but you must control the usage. It should not be too large. For example, if the traffic is too large, it will be considered as abuse or abnormal behavior by the provider
+Otherwise, it will be considered as abuse, because CDN manufacturers can also detect it
+For example, recently CF  CDN has added obvious usage restriction policy regulations.
+Subsequent control will definitely be carried out.
+### Security precautions
+Although the tool provides a clear way to hide IP anonymity, it requires your vps or purchased service to cooperate.
+But the registered username and password you use may not be safe. You need to verify the security of the password in other ways. The higher the complexity, the better.
+Because although you can use the tool, you also have to worry about your privacy protection.
+The email must be used by your local country's service. This mainly depends on whether your email or the provider of the service you purchased will collect your email data.
+Or, when using the tool, it connects to the IP and may also collect the log from your local IP to the remote IP.
+You can either ask the customer service about this?  Or you can use a more advanced way to chain proxy, through transit, etc., which roughly means that although you use your server, the IP you access is not the server you built yourself, but the IP of other countries, most of which are computer room IPs. This kind of stability cannot be sustained forever, after all, there are firewalls and rules, such as the firewall rules of the server itself or at the national level. My suggestion is to watch more on YouTube, where even a novice can learn most of the technical knowledge that can be understood. Although you still don’t understand it, you can study it a little bit. You can also find tutorials through search engines
+
