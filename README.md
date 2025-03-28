@@ -68,6 +68,21 @@ https://matsuridayo.github.io/n-configuration/
 
 如果找不到教程，去YouTube搜 又不是没办法，也可以使用谷歌搜索。
 
+# v2ray
+v2rayN
+https://github.com/2dust/v2rayN/releases
+
+# clash
+
+clash-nyanpasu
+docs: https://nyanpasu.elaina.moe/
+https://github.com/libnyanpasu/clash-nyanpasu/releases
+
+mihomo-party
+docs: https://mihomo.party/
+https://github.com/xishang0128/clash-meta-party
+
+
 
 
 English
