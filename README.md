@@ -2,6 +2,9 @@
 https://www.apple.com/library/test/success.html
 
 
+我备份的发行版无法保证是最新的
+
+
 如果被劫持了了用https协议，知道是都超时了，多连接测试还是无法使用，就用换那个https 正常使用代表就行了，还有一种可能呢，要么就是节点挂了，就类似于相当于网站被墙了
 
 PC: Clash Nyanpasu
@@ -41,6 +44,8 @@ Linux  太多了，自己找 github
 
 
 English
+
+The distribution I backed up cannot be guaranteed to be the latest
 
 
 # Search the right name + github keyword on Google, and then find the one with the highest number of stars and the highest number of favorites, which is
