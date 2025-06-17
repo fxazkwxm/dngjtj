@@ -1,126 +1,86 @@
-连接测试网址
-https://www.apple.com/library/test/success.html
-
+## 代理工具推荐
 
 我备份的发行版无法保证是最新的
 
+### PC 端代理工具
+| 工具名称       | GitHub 仓库地址                          |
+|----------------|-----------------------------------------|
+| Clash Nyanpasu | [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) |
+| NekoRay       | [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) |
+| GUI.for.SingBox| [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) |
+| GUI.for.Clash | [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) |
+| FlyClash      | [GtxFury/FlyClash](https://github.com/GtxFury/FlyClash) |
+| Pandora-Box   | [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) |
+| V2rayN        | [2dust/v2rayN](https://github.com/2dust/v2rayN) |
 
-如果被劫持了了用https协议，知道是都超时了，多连接测试还是无法使用，就用换那个https 正常使用代表就行了，还有一种可能呢，要么就是节点挂了，就类似于相当于网站被墙了
+### Android 端代理工具
+| 工具名称       | GitHub 仓库地址                          |
+|----------------|-----------------------------------------|
+| Nekobox       | [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) |
+| FlyClash      | [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) |
+| FlClash       | [chen08209/FlClash](https://github.com/chen08209/FlClash) |
+| ClashMetaForAndroid | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) |
 
-PC
-Clash Nyanpasu
+### Router 端代理工具
+| 工具名称       | GitHub 仓库地址                          |
+|----------------|-----------------------------------------|
+| openwrt-passwall | [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall) |
+| OpenClash     | [vernesong/OpenClash](https://github.com/vernesong/OpenClash) |
 
-NekoRay
-
-GUI.for.SingBox
-
-GUI.for.Clash
-
-FlyClash
-
-Pandora-Box
-
-V2rayN
-
-
-安卓
-
-Nekobox
-
-FlyClash 
-
-FlClash
-
-ClashMetaForAndroid
-
-
-路由器
-
-openwrt-passwall
-
-OpenClash
-
-ios
-
-Shadowrocket /免费
+### iOS 端代理工具
+- Shadowrocket：无直接 GitHub 仓库，为 App Store 应用，可从 [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) 下载。
 
 
+支持 macOS 的工具：Clash Nyanpasu、GUI.for.SingBox、GUI.for.Clash、Pandora-Box、V2rayN，FlyClash 需自行构建或者下载预编译的版本。  
 
+不支持 macOS 的工具：NekoRay。  
 
-mac 
-
-Clash-nyanpasu
-
-GUI.for.Clash
-
-GUI.for.Singbox
-
-V2rayN
-
-Linux  太多了，自己找 github
-
+支持 Linux 的工具：所有工具均支持 Linux 可能需用户自行构建或者下载预编译的版本
 
 
 English
 
-The distribution I backed up cannot be guaranteed to be the latest
 
+## Proxy Tool Recommendations
 
-# Search the right name + github keyword on Google, and then find the one with the highest number of stars and the highest number of favorites, which is
+I cannot guarantee that my backed-up distributions are the most up to date.
 
-PC
+### PC-side Proxy Tools
 
-Clash Nyanpasu
+| Tool Name        | GitHub Repository                                               |
+|------------------|-----------------------------------------------------------------|
+| Clash Nyanpasu   | [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) |
+| NekoRay          | [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray)    |
+| GUI.for.SingBox  | [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) |
+| GUI.for.Clash    | [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) |
+| FlyClash         | [GtxFury/FlyClash](https://github.com/GtxFury/FlyClash)           |
+| Pandora-Box      | [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) |
+| V2rayN           | [2dust/v2rayN](https://github.com/2dust/v2rayN)                   |
 
-NekoRay
+### Android-side Proxy Tools
 
-GUI.for.SingBox
+| Tool Name             | GitHub Repository                                            |
+|-----------------------|--------------------------------------------------------------|
+| Nekobox               | [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) |
+| FlyClash-Android      | [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) |
+| FlClash               | [chen08209/FlClash](https://github.com/chen08209/FlClash)     |
+| ClashMetaForAndroid   | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) |
 
-GUI.for.Clash
+### Router-side Proxy Tools
 
-FlyClash
+| Tool Name           | GitHub Repository                                    |
+|---------------------|------------------------------------------------------|
+| openwrt-passwall    | [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall) |
+| OpenClash           | [vernesong/OpenClash](https://github.com/vernesong/OpenClash) |
 
-Pandora-Box
+### iOS-side Proxy Tools
 
-V2rayN
+- Shadowrocket: No public GitHub repo; available on the [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118).
 
-Android
+---
 
-Nekobox
+Supported platforms:
 
-FlyClash
-
-FlClash
-
-ClashMetaForAndroid
-
-
-Router
-
-openwrt-passwall
-
-OpenClash
-
-ios
-
-Shadowrocket /free
-
-
-mac
-
-Clash-nyanpasu
-
-GUI.for.Clash
-
-GUI.for.Singbox
-
-V2rayN
-
-
-Linux There are too many, find it yourself on github
-
-Connect to test URL
-
-https://www.apple.com/library/test/success.html
-
-
+- macOS: Clash Nyanpasu, GUI.for.SingBox, GUI.for.Clash, Pandora-Box, V2rayN (FlyClash requires self-build or downloading a prebuilt binary)  
+- Not supported on macOS: NekoRay  
+- Linux: All listed tools can run on Linux, though you may need to build from source or obtain prebuilt binaries.
