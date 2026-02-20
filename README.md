@@ -25,7 +25,7 @@
 ### Router 端代理工具
 | 工具名称       | GitHub 仓库地址                          |
 |----------------|-----------------------------------------|
-| openwrt-passwall | [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall) |
+| openwrt-passwall | [openwrt-passwall 2 ](https://github.com/Openwrt-Passwall/openwrt-passwall2) |
 | OpenClash     | [vernesong/OpenClash](https://github.com/vernesong/OpenClash) |
 
 ### iOS 端代理工具
@@ -35,6 +35,7 @@
 支持 macOS 的工具：Clash Nyanpasu、GUI.for.SingBox、GUI.for.Clash、Pandora-Box、V2rayN，FlyClash 需自行构建或者下载预编译的版本。  
 
 不支持 macOS 的工具：NekoRay。  
+
 
 支持 Linux 的工具：所有工具均支持 Linux 可能需用户自行构建或者下载预编译的版本
 
@@ -72,7 +73,7 @@ I cannot guarantee that my backed-up distributions are the most up to date.
 
 | Tool Name           | GitHub Repository                                    |
 |---------------------|------------------------------------------------------|
-| openwrt-passwall    | [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall) |
+| openwrt-passwall    | [openwrt-passwall](https://github.com/Openwrt-Passwall/openwrt-passwall2) |
 | OpenClash           | [vernesong/OpenClash](https://github.com/vernesong/OpenClash) |
 
 ### iOS-side Proxy Tools
