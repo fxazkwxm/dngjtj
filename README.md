@@ -52,6 +52,7 @@
 
 
 > [!NOTE]
+> [!NOTE]
 > 关于搭建代理 需要用到VPS 一台带公网IPV4或者IPV6的云服务器  
 >
 > 配置要求 内存 1-2G 磁盘空间至少20g到40g之间  cpu核心尽量在1-2核心以内  
@@ -67,6 +68,19 @@
 > 这里不推荐自行选择或者直接在本github仓库开议题或者社区讨论  
 >
 > 可以提供远程服务搭建   
+>
+>  测试IP可用 在vps 提供商购买vps之后，它会提供IP  账号密码给你  
+> ping  vps ip   在你本地网络情况下，能测试有真实延迟，能通就代表能正常。在你国家使用  
+> 再借助ping 网站测试增加可用性  
+>
+> 主要是看延迟，延迟越低越好  延迟越大，距离你国家越远，所以使用体验会变差,  
+> 海外的延迟一般 10-50-100 ms 我觉得预期的值  
+>
+> 在我们的国家，一般延迟在100到200ms   
+> 有些的线路不好，就更大于1000ms  
+> 我的建议是优先选择线路好的，然后带宽速度比较大一点  
+>
+>
 >
 
 # English
@@ -130,13 +144,37 @@ Recommended specifications:
 - CPU: 1–2 vCPU
 
 Server location:
-Choose a VPS as close to your country or region as possible. Also consider whether the server location can communicate with your region without restrictive firewalls or network filtering.
+Choose a VPS as close to your country or region as possible. Ideally, the server should have stable connectivity to your location without restrictive firewalls or network filtering.
 
-Some countries are exceptions. For example, Iran has reportedly relaxed some Internet restrictions in recent years. In contrast, mainland China and North Korea continue to enforce strict national firewalls and traffic filtering. Network censorship technologies are continuously evolving and may include AI-assisted traffic analysis and deep packet inspection (DPI).
+Some countries are exceptions. For example, Iran has reportedly relaxed some Internet restrictions in recent years. In contrast, mainland China and North Korea continue to enforce strict national firewalls and traffic filtering. Modern censorship systems may also employ AI-assisted traffic analysis and Deep Packet Inspection (DPI).
 
 Network bandwidth:
-The bandwidth of your VPS determines its maximum theoretical throughput. Actual speeds depend on your local network environment, routing quality, and the destination server. Performance testing should be performed from your own network to obtain meaningful results.
+Your VPS bandwidth determines the maximum theoretical throughput. Actual performance depends on your local network, routing quality, and the destination server. Benchmarking should always be performed from your own network environment.
 
-If you are unsure which VPS provider or plan to choose, feel free to open an Issue or start a Discussion in this GitHub repository.
+If you are unsure which VPS provider or plan to choose, feel free to open an Issue or Discussion in this GitHub repository.
+
+Testing IP availability:
+
+After purchasing a VPS, your provider will supply the server's IP address along with the login credentials.
+
+Test the IP from your local network:
+
+ping <VPS_IP>
+
+If the server responds successfully, it is reachable from your network. You can also use public online ping services to test connectivity and availability from different regions.
+
+Latency:
+
+Lower latency generally provides a better user experience. Higher latency usually indicates a longer physical distance or less efficient network routing.
+
+Typical international latency ranges are approximately:
+
+- 10–50 ms: Excellent
+- 50–100 ms: Good
+- 100–200 ms: Acceptable
+- >200 ms: Noticeable delay
+- >1000 ms: Poor connectivity, often caused by routing issues or unstable networks
+
+When choosing a VPS, prioritize high-quality network routes first, then consider higher bandwidth if your workload requires it.
 
 Remote deployment services are also available.»
