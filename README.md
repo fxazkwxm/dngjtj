@@ -48,7 +48,9 @@
 | Pure Clash | Mihomo | PC | [Download](https://github.com/prime-zt/pure-clash/releases/latest) |
 | Sing-Box Windows | sing-box | PC | [Download](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.4.0) |
 > FlClash | Mihomo | Multi-platform | [Download](https://github.com/chen08209/FlClash/releases) |
-| Bettbox | Mihomo | Multi-platform | [Download](https://github.com/appshubcc/Bettbox/releases) |
+| Bettbox | Mihomo | Multi-platform | [Download](https://github.com/appshubcc/Bettbox/releases)
+>
+> 
 
 > [!WARNING]
 > "Multi-platform" refers to Android, Windows, Linux, and macOS.
