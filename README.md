@@ -83,18 +83,19 @@
 > For other types of VPN or proxy clients on iOS, please search the **App Store** directly.
 
 
-Proxy Panel Recommendations
+# Proxy Panel Recommendations
 
-Panel| Core| Repository
-3m-ui| Mihomo| "3m-ui" (https://github.com/kazeyukiro/3m-ui)
-S-UI| sing-box| "S-UI" (https://github.com/alireza0/s-ui)
-3x-ui| Xray-core| "3x-ui" (https://github.com/MHSanaei/3x-ui)
+| Name | Core | Repository |
+| --- | --- | --- |
+| 3m-ui | Mihomo | [3m-ui](https://github.com/kazeyukiro/3m-ui) |
+| S-UI | sing-box | [S-UI](https://github.com/alireza0/s-ui) |
+| 3x-ui | Xray-core | [3x-ui](https://github.com/MHSanaei/3x-ui) |
 
-«[!TIP]
-Supported Protocols
-
-The protocols supported by each panel depend on its underlying core. For the latest and most accurate information, refer to the official documentation below.
-
-- Mihomo: https://wiki.metacubex.one/config/proxies/
-- sing-box: https://sing-box.sagernet.org/configuration/outbound/
-- Xray-core: VLESS, VMess, Trojan, Shadowsocks, WireGuard, AmneziaWG, TUIC v5, Hysteria2, MTProto, HTTP, SOCKS (Mixed), Dokodemo-door, Tunnel, and TUN.»
+> [!TIP]
+> For supported protocols, please refer to the official documentation or the panel project's homepage.
+>
+> **Mihomo:** https://wiki.metacubex.one/config/proxies/
+>
+> **sing-box:** https://sing-box.sagernet.org/configuration/outbound/
+>
+> **Xray-core:** VLESS, VMess, Trojan, Shadowsocks, WireGuard, AmneziaWG, TUIC v5, Hysteria2, MTProto, HTTP, SOCKS (Mixed), Dokodemo-door, Tunnel, and TUN.
