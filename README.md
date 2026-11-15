@@ -1,89 +1,63 @@
-## 代理工具推荐
+# VPN 代理工具与代理面板推荐
 
-我备份的发行版无法保证是最新的
+> 包含 VPN、代理工具、代理面板及相关软件
+>
+> 目前只推荐开源代理工具
 
-### PC 端代理工具
-| 工具名称       | GitHub 仓库地址                          |
-|----------------|-----------------------------------------|
-| sparkle | [xishang0128/sparkle](https://github.com/xishang0128/sparkle) |
-| Clash Nyanpasu | [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) |
-| NekoRay       | [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) |
-| GUI.for.SingBox| [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) |
-| GUI.for.Clash | [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) |
-| FlyClash      | [GtxFury/FlyClash](https://github.com/GtxFury/FlyClash) |
-| Pandora-Box   | [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) |
-| V2rayN        | [2dust/v2rayN](https://github.com/2dust/v2rayN) |
+> [!NOTE]
+> VPN 和代理工具属于同一性质的工具 只是他们可能专业词概念不同
 
-### Android 端代理工具
-| 工具名称       | GitHub 仓库地址                          |
-|----------------|-----------------------------------------|
-| Nekobox       | [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) |
-| FlyClash      | [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) |
-| FlClash       | [chen08209/FlClash](https://github.com/chen08209/FlClash) |
-| ClashMetaForAndroid | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) |
+| 名称 | 内核 | 客户端 | 仓库地址 |
+| --- | --- | --- | --- |
+| NextBox | sing-box | Android | [下载](https://github.com/Efah-Dev/NextBox-Android/releases) |
+| Angela Mihomo | Mihomo | Android | [下载](https://github.com/dukangalex/AngelaMihomo/releases) |
+| clash-nyanpasu | Mihomo | PC  | [下载](https://github.com/libnyanpasu/clash-nyanpasu/releases/tag/v2.0.1) |
+| Pure Clash | Mihomo | PC | [下载](https://github.com/prime-zt/pure-clash/releases/latest) |
+| Sing-Box Windows | sing-box | PC | [下载](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.4.0) |
+| FlClash | Mihomo | 多平台 | [下载](https://github.com/chen08209/FlClash/releases) |
+| Bettbox | Mihomo | 多平台 | [下载](https://github.com/appshubcc/Bettbox/releases) |
 
-### Router 端代理工具
-| 工具名称       | GitHub 仓库地址                          |
-|----------------|-----------------------------------------|
-| openwrt-passwall | [openwrt-passwall 2 ](https://github.com/Openwrt-Passwall/openwrt-passwall2) |
-| OpenClash     | [vernesong/OpenClash](https://github.com/vernesong/OpenClash) |
+> [!WARNING]
+> 多平台 指的是 Android +Windows+Linux+macOS  
+>
+>
+> 不提供苹果生态ios  VPN代理工具客户端 他们那个过于复杂 我主要是生态融入不进去 不喜欢那种环境，推荐支持推荐安卓和PC Win 10以上系统  
+>
+> 只有设备iPhone xr    
+>
+> 小火箭=Shadowrocket  
+>
+>  其他类型VPN代理工具类型仅在iOS商店上面搜索
 
-### iOS 端代理工具
-- Shadowrocket：无直接 GitHub 仓库，为 App Store 应用，可从 [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) 下载。
+# English
 
+# Recommendations for VPN/Proxy Tools and Dashboards
 
-支持 macOS 的工具：Clash Nyanpasu、GUI.for.SingBox、GUI.for.Clash、Pandora-Box、V2rayN，FlyClash 需自行构建或者下载预编译的版本。  
+> Includes VPNs, proxy tools, proxy dashboards, and related software.
+>
+> Currently, only open-source proxy tools are recommended.
 
-不支持 macOS 的工具：NekoRay。  
+> [!NOTE]
+> VPNs and proxy tools are essentially the same type of utility, though they may differ in technical terminology.
 
+| Name | Core | Client | Repository |
+| --- | --- | --- | --- |
+| NextBox | sing-box | Android | [Download](https://github.com/Efah-Dev/NextBox-Android/releases) |
+| Angela Mihomo | Mihomo | Android | [Download](https://github.com/dukangalex/AngelaMihomo/releases) |
+| clash-nyanpasu | Mihomo | PC | [Download](https://github.com/libnyanpasu/clash-nyanpasu/releases/tag/v2.0.1) |
+| Pure Clash | Mihomo | PC | [Download](https://github.com/prime-zt/pure-clash/releases/latest) |
+| Sing-Box Windows | sing-box | PC | [Download](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.4.0) |
+> FlClash | Mihomo | Multi-platform | [Download](https://github.com/chen08209/FlClash/releases) |
+| Bettbox | Mihomo | Multi-platform | [Download](https://github.com/appshubcc/Bettbox/releases) |
 
-支持 Linux 的工具：所有工具均支持 Linux 可能需用户自行构建或者下载预编译的版本
-
-
-English
-
-
-## Proxy Tool Recommendations
-
-I cannot guarantee that my backed-up distributions are the most up to date.
-
-### PC-side Proxy Tools
-
-| Tool Name        | GitHub Repository                                               |
-|------------------|-----------------------------------------------------------------|
-| sparkle | [xishang0128/sparkle](https://github.com/xishang0128/sparkle) |
-| Clash Nyanpasu   | [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) |
-| NekoRay          | [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray)    |
-| GUI.for.SingBox  | [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) |
-| GUI.for.Clash    | [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) |
-| FlyClash         | [GtxFury/FlyClash](https://github.com/GtxFury/FlyClash)           |
-| Pandora-Box      | [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) |
-| V2rayN           | [2dust/v2rayN](https://github.com/2dust/v2rayN)                   |
-
-### Android-side Proxy Tools
-
-| Tool Name             | GitHub Repository                                            |
-|-----------------------|--------------------------------------------------------------|
-| Nekobox               | [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) |
-| FlyClash-Android      | [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) |
-| FlClash               | [chen08209/FlClash](https://github.com/chen08209/FlClash)     |
-| ClashMetaForAndroid   | [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) |
-
-### Router-side Proxy Tools
-
-| Tool Name           | GitHub Repository                                    |
-|---------------------|------------------------------------------------------|
-| openwrt-passwall    | [openwrt-passwall](https://github.com/Openwrt-Passwall/openwrt-passwall2) |
-| OpenClash           | [vernesong/OpenClash](https://github.com/vernesong/OpenClash) |
-
-### iOS-side Proxy Tools
-
-- Shadowrocket: No public GitHub repo; available on the [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118).
-
----
-
-Supported platforms:
-
-- macOS: Clash Nyanpasu, GUI.for.SingBox, GUI.for.Clash, Pandora-Box, V2rayN (FlyClash requires self-build or downloading a prebuilt binary)  
-- Not supported on macOS: NekoRay  
-- Linux: All listed tools can run on Linux, though you may need to build from source or obtain prebuilt binaries.
+> [!WARNING]
+> "Multi-platform" refers to Android, Windows, Linux, and macOS.
+>
+>
+> I do not provide recommendations for VPN/proxy clients for the Apple iOS ecosystem. The setup process there is overly complex, and I personally do not integrate well with—nor do I particularly enjoy—that environment. My recommendations focus on Android and PC (Windows 10 or later).
+>
+> The only Apple device I own is an iPhone XR.
+>
+> "Little Rocket" (小火箭) refers to Shadowrocket.
+>
+>  For other types of VPN/proxy tools, please search within the iOS App Store.
