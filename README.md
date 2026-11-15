@@ -31,35 +31,32 @@
 
 # English
 
-# Recommendations for VPN/Proxy Tools and Dashboards
+# VPN, Proxy Clients & Proxy Panels
 
-> Includes VPNs, proxy tools, proxy dashboards, and related software.
+> Includes VPNs, proxy clients, proxy panels, and related software.
 >
-> Currently, only open-source proxy tools are recommended.
+> Currently, only open-source proxy clients are recommended.
 
 > [!NOTE]
-> VPNs and proxy tools are essentially the same type of utility, though they may differ in technical terminology.
+> VPNs and proxy clients serve essentially the same purpose. The primary difference lies in their terminology and technical concepts.
 
-| Name | Core | Client | Repository |
+| Name | Core | Platform | Repository |
 | --- | --- | --- | --- |
 | NextBox | sing-box | Android | [Download](https://github.com/Efah-Dev/NextBox-Android/releases) |
 | Angela Mihomo | Mihomo | Android | [Download](https://github.com/dukangalex/AngelaMihomo/releases) |
-| clash-nyanpasu | Mihomo | PC | [Download](https://github.com/libnyanpasu/clash-nyanpasu/releases/tag/v2.0.1) |
-| Pure Clash | Mihomo | PC | [Download](https://github.com/prime-zt/pure-clash/releases/latest) |
-| Sing-Box Windows | sing-box | PC | [Download](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.4.0) |
-> FlClash | Mihomo | Multi-platform | [Download](https://github.com/chen08209/FlClash/releases) |
-| Bettbox | Mihomo | Multi-platform | [Download](https://github.com/appshubcc/Bettbox/releases)
->
-> 
+| clash-nyanpasu | Mihomo | Windows | [Download](https://github.com/libnyanpasu/clash-nyanpasu/releases/tag/v2.0.1) |
+| Pure Clash | Mihomo | Windows | [Download](https://github.com/prime-zt/pure-clash/releases/latest) |
+| Sing-Box Windows | sing-box | Windows | [Download](https://github.com/xinggaoya/sing-box-windows/releases/tag/v2.4.0) |
+| FlClash | Mihomo | Multi-platform | [Download](https://github.com/chen08209/FlClash/releases) |
+| Bettbox | Mihomo | Multi-platform | [Download](https://github.com/appshubcc/Bettbox/releases) |
 
 > [!WARNING]
-> "Multi-platform" refers to Android, Windows, Linux, and macOS.
+> **Multi-platform** refers to support for **Android, Windows, Linux, and macOS**.
 >
+> iOS proxy clients are **not included**. Due to the complexity of the Apple ecosystem, this guide focuses on Android and Windows (Windows 10 or later).
 >
-> I do not provide recommendations for VPN/proxy clients for the Apple iOS ecosystem. The setup process there is overly complex, and I personally do not integrate well with—nor do I particularly enjoy—that environment. My recommendations focus on Android and PC (Windows 10 or later).
+> Current iPhone device: **iPhone XR**
 >
-> The only Apple device I own is an iPhone XR.
+> **Shadowrocket** is commonly referred to as **Shadowrocket** (also known as "Little Rocket" in Chinese communities).
 >
-> "Little Rocket" (小火箭) refers to Shadowrocket.
->
->  For other types of VPN/proxy tools, please search within the iOS App Store.
+> For other types of VPN or proxy clients on iOS, please search the **App Store** directly.
