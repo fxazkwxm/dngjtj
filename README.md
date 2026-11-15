@@ -29,6 +29,27 @@
 >
 >  其他类型VPN代理工具类型仅在iOS商店上面搜索
 
+
+# 代理面板推荐
+
+| 名称 | 内核 | 仓库地址 |
+| --- | --- | --- |
+| 3m-ui | Mihomo | [3m-ui](https://github.com/kazeyukiro/3m-ui) |
+| S-UI | sing-box | [S-UI](https://github.com/alireza0/s-ui) |
+| 3x-ui | Xray-core | [3x-ui](https://github.com/MHSanaei/3x-ui) |
+
+> [!TIP]
+> 支持的协议，请参考文档 或者看面板项目首页  
+>
+> Mihomo : https://wiki.metacubex.one/config/proxies/  
+>
+>
+> sing-box: https://sing-box.sagernet.org/zh/configuration/outbound/  
+> xray :VLESS、VMess、Trojan、Shadowsocks、WireGuard、AmneziaWG、TUIC v5、Hysteria2、MTProto、HTTP、SOCKS (Mixed)、Dokodemo-door / Tunnel 和 TUN  
+>
+>
+>
+
 # English
 
 # VPN, Proxy Clients & Proxy Panels
@@ -60,3 +81,20 @@
 > **Shadowrocket** is commonly referred to as **Shadowrocket** (also known as "Little Rocket" in Chinese communities).
 >
 > For other types of VPN or proxy clients on iOS, please search the **App Store** directly.
+
+
+Proxy Panel Recommendations
+
+Name| Core| Repository
+3m-ui| Mihomo| "3m-ui" (https://github.com/kazeyukiro/3m-ui)
+S-UI| sing-box| "S-UI" (https://github.com/alireza0/s-ui)
+3x-ui| Xray-core| "3x-ui" (https://github.com/MHSanaei/3x-ui)
+
+«[!TIP]
+For the list of supported protocols, please refer to the official documentation or the project's homepage.
+
+Mihomo: https://wiki.metacubex.one/config/proxies/
+
+sing-box: https://sing-box.sagernet.org/configuration/outbound/
+
+Xray: VLESS, VMess, Trojan, Shadowsocks, WireGuard, AmneziaWG, TUIC v5, Hysteria2, MTProto, HTTP, SOCKS (Mixed), Dokodemo-door / Tunnel, and TUN.»
